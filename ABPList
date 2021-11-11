@@ -161,15 +161,19 @@ huya.com##.danmu-report-tips
 huya.com##.diy-comp.J_comp_1
 huya.com##.diy-comp.J_comp_10
 huya.com##.diy-comp.J_comp_11
+huya.com##.diy-comp.J_comp_12
 huya.com##.diy-comp.J_comp_13
 huya.com##.diy-comp.J_comp_14
 huya.com##.diy-comp.J_comp_15
 huya.com##.diy-comp.J_comp_16
 huya.com##.diy-comp.J_comp_17
+huya.com##.diy-comp.J_comp_18
 huya.com##.diy-comp.J_comp_2
 huya.com##.diy-comp.J_comp_3
 huya.com##.diy-comp.J_comp_4
 huya.com##.diy-comp.J_comp_5
+huya.com##.diy-comp.J_comp_6
+huya.com##.diy-comp.J_comp_7
 huya.com##.diy-comp.J_comp_8
 huya.com##.diy-comp.J_comp_9
 huya.com##.g-gift.g-show
@@ -231,7 +235,6 @@ juejin.im##.link
 juejin.im##.notice
 juejin.im##.sidebar
 lagou.com###top_bannerC
-lagou.com##a[style="height: px; background: url(https://www.lgstatic.com/i/image2/M01/E3/68/CgoB5lxv66qAFdzPAAHiAVkz_kI364.JPG) center center no-repeat; background-color:#371796"]
 lee-blog.com##.RIbGtaWGAnGB-bg
 lee-blog.com##.RIbGtaWGAnGB-default
 live.bilibili.com###chat-popup-area-vm
@@ -275,18 +278,10 @@ rrys2019.com##.notice
 stackoverflow.com###hireme
 stackoverflow.com##.orange.tagged.tex2jax_ignore.clc-jobs-multi
 t66y.com##.banner
-t66y.com##.fl
 t66y.com##.signature
 t66y.com##div[style="padding:10px 0;"]
 t66y.com#@#.sptable_do_not_remove
 t66y.com#@#.tips
-textnow.com###banner
-textnow.com###modal
-textnow.com##.modal
-textnow.com##.modal-content
-textnow.com##.modal-dialog
-textnow.com##.rotation-manager-slot
-textnow.com##.toast
 tianyancha.com###tyc_banner_bottom
 tianyancha.com##.banner-bottom
 tieba.baidu.com##.aside_region.app_download_box
@@ -324,7 +319,6 @@ vip.yy.com##.ui-pendant__link
 weibo.com##.fold_bg
 weibo.com##.fold_cont.clearfix
 weibo.com##.webim_fold.webim_fold_v2.clearfix
-www.t66y.com##div[style="padding:10px 0;"]
 wx.qq.com##.download_entry.ng-scope
 y.qq.com##.popup_guide
 yxgapp.com###getApp
@@ -335,19 +329,9 @@ zhihu.com##.Card-section.RelatedCommodities-list
 zhihu.com##.EventcardItem-cover
 zhihu.com##.StoryCompetitionBanner
 zhihu.com##div[style="height: 180px;"]
-zhuanlan.zhihu.com##.AdblockBanner
-zmz2019.com##.chat-enterbox
 zoofilia.gratis##.container.text-center
-||cdnb.artstation.com/p/c2_assets/000/006/465/original/daaf4c9f1af46b09.mp4?1585753554
 ||club.mail.sina.com.cn/index.php?action=Clubadv&vt=0
 ||huyaimg.msstatic.com
-||pic1.zhimg.com/80/v2-28a99ae139541a7d1b887c6725a26c78_r.jpg
-||pic1.zhimg.com/80/v2-32dd9f6d2e9cca985c0e0a2dc34f8fb9_r.png
-||pic1.zhimg.com/80/v2-d82e6dad3ce5863a5bce7389b28bcf45_r.jpg
-||pic2.zhimg.com/v2-6e8fccc8a30e8cf15a90e7a894011579_r.jpg
 ||res.douyucdn.cn//resource
-||sta-op.douyucdn.cn/douyu/2020/05/14/1272554837e58c47f2362e22294c56ab.png
-||ugcbsy.qq.com/uwMRJfz-r5hgYaQXGdGnCrsx6mPceGEBseGT7fyNAJM/x078865408z.p701.1.mp4?sdtfrom=v1104&guid=6dbc11022e079e717915af0dab2f1350&vkey=6BD85155C32D7111F15906BEEE927B69BAC25D10358F96DE4C3BB22BFD403C91F528DB33F0C04AF3B40CE5FD3E05855236BB8A2663A6D02F94F2DBA47F6B0EEB4256F9C05B1327414B78E45255AAF2F811FC3B5B7CCAABBE22D8118D6D5567521A09F2E4DDEE5B77EA14CDDAE041A2C5C7B5FABDE29EB1B4
-||ugcydzd.qq.com/uwMRJfz-r5hgYaQXGdGnCrsx6mPceGEBseGT7fyNAJM/a0791ob60ki.p701.1.mp4?sdtfrom=v1104&guid=6dbc11022e079e717915af0dab2f1350&vkey=8716F142A8417A705B3AB3924E00C681E028073784D5CCDD4C422BCCB3E936159CAD54E9B31AB386B9B2DE3842D36319A4331A9BB91B03E84071742A551981E50E584E0422D781FF972BCBB932FD07F83C4EE6696E1E232BAB34A20E48AF2C16B450AABF710B6FD645F504D7CB0482DCD9AE1E0D722C4C6E
 ||upload.jianshu.io/admin_banners
 ||v-cms-img.huya.com/huya/yingshou/guajian
