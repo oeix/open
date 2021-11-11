@@ -2,6 +2,7 @@
 ! Title: XX ABPList
 ! Homepage: https://github.com/oeix/open/
 ! Expires: 7 days
+@@||t66y.com/favicon.ico
 account.bilibili.com##.big-banner-warp.report-scroll-module
 account.live.com##.c-uhfh-alert.f-information.epb-container.epb-default-color
 acfun.cn##.app-guide
@@ -279,7 +280,6 @@ stackoverflow.com###hireme
 stackoverflow.com##.orange.tagged.tex2jax_ignore.clc-jobs-multi
 t66y.com##.banner
 t66y.com##.signature
-t66y.com##div[style="padding:10px 0;"]
 t66y.com#@#.sptable_do_not_remove
 t66y.com#@#.tips
 tianyancha.com###tyc_banner_bottom
@@ -330,6 +330,7 @@ zhihu.com##.EventcardItem-cover
 zhihu.com##.StoryCompetitionBanner
 zhihu.com##div[style="height: 180px;"]
 zoofilia.gratis##.container.text-center
+||*$image,domain=www.t66y.com
 ||club.mail.sina.com.cn/index.php?action=Clubadv&vt=0
 ||huyaimg.msstatic.com
 ||res.douyucdn.cn//resource
