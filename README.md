@@ -1,0 +1,1 @@
+[uBlacklist](https://raw.githubusercontent.com/oeix/open/main/uBlacklist)  &emsp; [edit](https://github.com/oeix/open/edit/main/uBlacklist)
