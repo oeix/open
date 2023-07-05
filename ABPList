@@ -59,13 +59,14 @@ digame.qq.com##.ewm-pop
 docs.gradle.org##.notification
 douyu.com###js-player-asideMain
 douyu.com###js-player-toolbar
+douyu.com###js-room-activity
 douyu.com##.AnchorLike-ItemBox
 douyu.com##.layout-Player-asideMain
 douyu.com##.layout-Player-toolbar
-douyu.com##.LOVEDAY202207Competition
-douyu.com##.LOVEDAYACT202207-logo
 douyu.com##.newCSGOPanel
 douyu.com##.newCSGOPanel-panel.newCSGOPanel-panel--wanmei
+douyu.com##.wm-view
+douyu.com##div[style*="1071px"]
 github.com##.Box.border-blue.p-2.mb-4.js-notice
 github.com##.d-flex.flex-items-center.text-white.no-underline.overflow-hidden.p-2
 github.com##.d-flex.text-white.no-underline.overflow-hidden.p-3
@@ -173,7 +174,3 @@ zhihu.com##.StoryCompetitionBanner
 zhihu.com##div[style="height: 180px;"]
 zoofilia.gratis##.container.text-center
 ||*$image,domain=www.t66y.com
-||douyu.com/topic/h5/CSGOPanel?roomId=7582949
-||douyu.com/topic/h5/CSGOPanel?roomId=7582949&showAuto=true
-||res.douyucdn.cn//resource
-||s1.imagehub.cc/images/2023/02/28/193db488346d14057403367ab87d7d98.png
