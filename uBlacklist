@@ -1,4 +1,7 @@
 title/.*- ?\S+(百科|知识)网/
+*://*.bluestep.cc/*
+*://*.pinggu.org/*
+*://0xo.net/*
 *://243333.xyz/*
 *://51ksu.com/*
 *://59ifx.com/*
@@ -7,6 +10,7 @@ title/.*- ?\S+(百科|知识)网/
 *://91mjw.vip/*
 *://aaaf.top/*
 *://apk.tw/*
+*://book.519.best/*
 *://book.ichishu.com/*
 *://bookzhai.com/*
 *://c.trust-core.xyz/*
@@ -14,6 +18,7 @@ title/.*- ?\S+(百科|知识)网/
 *://cn.epubee.com/*
 *://crackservice.com/*
 *://dape.cc/*
+*://diumx.com/*
 *://dj-social.read678.com/*
 *://duzhitu.com/*
 *://ebook365.org/*
@@ -38,6 +43,7 @@ title/.*- ?\S+(百科|知识)网/
 *://lvv2.com/*
 *://m.5nd.com/*
 *://m.7dshu.com/*
+*://m.bttiantang.com/*
 *://m.gansuxiaochi.com/*
 *://m.ourplay.net/*
 *://m.piewan.com/*
@@ -53,6 +59,7 @@ title/.*- ?\S+(百科|知识)网/
 *://ol.3dmgame.com/*
 *://pornkai.com/*
 *://read678.com/*
+*://rsstime.com/*
 *://shanyue.tech/*
 *://shudan.vip/*
 *://sobooks.net/*
@@ -73,6 +80,7 @@ title/.*- ?\S+(百科|知识)网/
 *://www.20686.cn/*
 *://www.21svip.com/*
 *://www.22dshu.com/*
+*://www.42958.com/*
 *://www.4kkdy.com/*
 *://www.51vv.com/*
 *://www.52doc.com/*
@@ -84,10 +92,13 @@ title/.*- ?\S+(百科|知识)网/
 *://www.91flac.com/*
 *://www.97douyin.com/*
 *://www.993dy.com/*
+*://www.99wody.com/*
 *://www.abooky.com/*
 *://www.aibtba.com/*
 *://www.aixdzs.com/*
+*://www.alipanba.com/*
 *://www.axjbt.com/*
+*://www.baike.com/*
 *://www.baiyu.tech/*
 *://www.banzou68.com/*
 *://www.bd2020.co/*
@@ -106,20 +117,25 @@ title/.*- ?\S+(百科|知识)网/
 *://www.dushudaren.com/*
 *://www.dy2018.com/*
 *://www.dydytt.net/*
+*://www.ebookmany.com/*
 *://www.ebooks114.com/*
 *://www.eeq8.com/*
 *://www.epubooks.top/*
+*://www.ershu.org/*
 *://www.eshuxiazai.com/*
+*://www.f513.com/*
 *://www.fast8.cc/*
 *://www.fast8.com/*
 *://www.fdf26.com/*
 *://www.flac123.com/*
 *://www.fydqw.com/*
+*://www.gaoqing888.com/*
 *://www.ghost123.com/*
 *://www.gifmao.com/*
 *://www.grab4k.com/*
 *://www.guapan.com/*
 *://www.gzcpwx.com/*
+*://www.haoyangmao18.com/*
 *://www.hdsay.net/*
 *://www.hdwan.org/*
 *://www.hiaxj.com/*
@@ -159,6 +175,7 @@ title/.*- ?\S+(百科|知识)网/
 *://www.ntyou.cc/*
 *://www.nudevista.com/*
 *://www.oraclevip.com/*
+*://www.panjdzy.com/*
 *://www.pdffsy.com/*
 *://www.pdoro.com/*
 *://www.piewan.com/*
@@ -179,14 +196,18 @@ title/.*- ?\S+(百科|知识)网/
 *://www.sohapan.com/*
 *://www.soogif.com/*
 *://www.ssylu.com/*
+*://www.staycu.com/*
 *://www.taoduyx.com/*
+*://www.taoshudang.com/*
 *://www.taxue123.com/*
+*://www.tianlangbooks.com/*
 *://www.tlyshi.com/*
 *://www.toplinks.cc/*
 *://www.totobooks.com/*
 *://www.toutiao.com/*
 *://www.tspweb.com/*
 *://www.ttkan.co/*
+*://www.ttxiaoshuo.top/*
 *://www.tuiliw.com/*
 *://www.tutupan.com/*
 *://www.txtpdf.cn/*
@@ -197,6 +218,7 @@ title/.*- ?\S+(百科|知识)网/
 *://www.vzhuanba.com/*
 *://www.w3cschool.cn/*
 *://www.wanbenla.com/*
+*://www.wfxs.com.tw/*
 *://www.whldl.com/*
 *://www.win10set.com/*
 *://www.win10xiazai.com/*
@@ -204,6 +226,7 @@ title/.*- ?\S+(百科|知识)网/
 *://www.xbing.cc/*
 *://www.xiaolipan.com/*
 *://www.xinshijuewp.com/*
+*://www.xuanse.me/*
 *://www.xueba521.com/*
 *://www.xuexi1234567.com/*
 *://www.yangchunmian888.com/*
@@ -216,8 +239,10 @@ title/.*- ?\S+(百科|知识)网/
 *://www.yzsxt.com/*
 *://www.z8007.com/*
 *://www.zf678.com/*
+*://www.zhaishenku.com/*
 *://www.zhiboche.com/*
 *://www.zhuayu.live/*
+*://www.ziyuanchou.com/*
 *://www.ziyuandaili.com/*
 *://www.zuanchuang.org/*
 *://www.zxcs.info/*
@@ -226,3 +251,4 @@ title/.*- ?\S+(百科|知识)网/
 *://xunii.com/*
 *://yabook.org/*
 *://yanmingshiping.blogspot.com/*
+*://z-lib.io/*
